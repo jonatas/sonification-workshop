@@ -662,8 +662,30 @@ Make it accessible to people with visual impairments.
 
 # Extra Resources
 
+
+        █████████████████████████████████████
+        █████████████████████████████████████
+        ████ ▄▄▄▄▄ █▀▄█▀ ▄▄ ▀▀▄▄██ ▄▄▄▄▄ ████
+        ████ █   █ █▄   ▄█ ▀▀▄▀▄▄█ █   █ ████
+        ████ █▄▄▄█ █ ▀█▀██▄  █▀▀██ █▄▄▄█ ████
+        ████▄▄▄▄▄▄▄█ ▀▄█ █ ▀ ▀▄▀ █▄▄▄▄▄▄▄████
+        ████▄ █ ▀▀▄ ▀█ ▀▄▄▄█ ▀█▄▀█ ▄▄▀▄▄▀████
+        ████  ▀▄█▀▄▄▀▄▄█▄▀▀█▄█ ▄ ▄██ ▄  █████
+        █████▀▀▀ █▄▄▀█▀█▀ ▄█▄ ▀   ▄██▄█▄▄████
+        ████  █▄ ▀▄ ▀  ▄▀▀ ▀█▀ █ ▀ ▄▄ ▄ ▄████
+        ██████ ▄█▄▄▀█ ▄  ▀█▄▀ ▄█ ▀▀ █▀█▄▀████
+        ████▄█▀▀  ▄ ▀ ▀▀▄▄▀█▄ ▀█▀ █  ██  ████
+        ████▄█▄▄▄▄▄▄  ▄█ ▄▄█ ▀▀  ▄▄▄ █ ▀▀████
+        ████ ▄▄▄▄▄ █▄▀█▀█▀█▀▄▄ █ █▄█ ▀▀ █████
+        ████ █   █ █▀  █▀▄▀▄▄▄█▀ ▄   ▀▀█▄████
+        ████ █▄▄▄█ █▀▀▀▄█ ██ ▀▀  ▀██ ▄▄▀▄████
+        ████▄▄▄▄▄▄▄█▄▄▄▄▄██▄█▄██▄▄▄▄▄▄█▄█████
+        █████████████████████████████████████
+        █████████████████████████████████████
+
 - https://github.com/jonatas/timescaledb
 - https://github.com/jonatas/piscale
+- https://github.com/jonatas/sonification-workshop
 
 Join the Timescale Community: https://timescale.com/community
 
@@ -671,5 +693,6 @@ Join the Timescale Community: https://timescale.com/community
 
 - [@jonatasdp](https://twitter.com/jonatasdp) on {Twitter,Instagram,Linkedin}
 - Github: [@jonatas](https://github.com/jonatas)
+
 
 #### Jônatas Davi Paganini
