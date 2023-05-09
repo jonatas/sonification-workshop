@@ -83,7 +83,6 @@ Now I work at Timescaledb, so why not make noise from any data?
 - Potential applications in data analysis, accessibility, education, and arts
 - Active area of research and developmen
 
-
 # Data: The New Gold
 
 - Valuable and versatile
@@ -174,9 +173,29 @@ images.
 
 # Download
 
-Download the repository:
+              █████████████████████████████████████
+              █████████████████████████████████████
+              ████ ▄▄▄▄▄ █▀█▀▄█▀▄▀ █ ▄▄█ ▄▄▄▄▄ ████
+              ████ █   █ █▀▄▀▀ ▀ ▄▄▀█ ▄█ █   █ ████
+              ████ █▄▄▄█ █▀▄▀▄▀▀█▀▀██▄ █ █▄▄▄█ ████
+              ████▄▄▄▄▄▄▄█▄▀ ▀▄█ ▀▄█ ▀ █▄▄▄▄▄▄▄████
+              ████▄ ▄▄ ▀▄  ▄█ ▄ ▄▄▀▄▀ ▀▄▀ ▀▄█▄▀████
+              ████   ▄▄▄▄▄ █▄█▀█▀ ▀█▄▀████▄▀█▀█████
+              ████▄▀▄▀▄▄▄▄▀▄▄ ▄▄▄▄ ▄█ ▀▀▀▀▀▄▄█▀████
+              ████▄▄▀  ▄▄ ▄▀▄█▀█  ▄▄▄▀  ▀▀ ▄▄▀█████
+              ████  ▄▄█ ▄▀▄█ ▀▄ ▄▄▀   █ ▀ ▀▄ █▀████
+              ████ ██▀▄▀▄ ██▄▀ ▄▄ ▀▄██ ▀ ▄▄█▄▀█████
+              ████▄█▄██▄▄▄▀  ▀█▄▄▄▀▄█▄ ▄▄▄ ▀   ████
+              ████ ▄▄▄▄▄ █▄█ █▄▄▀  ▄▄  █▄█ ▄▄▀█████
+              ████ █   █ █ ▄█▀█▄▄██▄█▀ ▄▄▄▄▀ █▀████
+              ████ █▄▄▄█ █ █████  ▀█▄▄  ▄ ▄ ▄ █████
+              ████▄▄▄▄▄▄▄█▄██▄▄▄███▄█▄██▄▄▄█▄██████
+              █████████████████████████████████████
+              █████████████████████████████████████
 
 https://github.com/jonatas/sql-data-science-training
+
+# Setup schema
 
 Use the `schema.sql` file  for the next few steps if you want. Our steps will
 be:
