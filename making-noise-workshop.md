@@ -6,7 +6,7 @@
 
 ##### Jônatas Davi Paganini - **jonatas@timescale.com**
 
-# **Jônatas Davi Paganini**
+# Jônatas Davi Paganini 🇧🇷
 
 **Developer Advocate @ Timescale**
 
@@ -669,7 +669,7 @@ end
 
 ![Moog Synth](https://upload.wikimedia.org/wikipedia/commons/e/e6/Moog_Modular_55_img2.jpg)
 
-By .The original uploader was Kimi95 at Italian Wikipedia. - http://www.vintagesynth.com/moog/m55_5whole.jpg e, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7745469
+<small>By .The original uploader was Kimi95 at Italian Wikipedia. - http://www.vintagesynth.com/moog/m55_5whole.jpg e, CC BY 3.0, https://commons.wikimedia.org/w/index.php </small>
 
 # Imagine a world with real synthesizer hardware integrated with data analysis.
 
@@ -680,6 +680,14 @@ By .The original uploader was Kimi95 at Italian Wikipedia. - http://www.vintages
 Make it accessible to people with visual impairments.
 
 # Extra Resources
+- https://github.com/jonatas/timescaledb
+- https://github.com/jonatas/piscale
+- https://github.com/jonatas/sonification-workshop
+
+Join the Timescale Community: https://timescale.com/community
+
+
+# Thank you!
 
 
         █████████████████████████████████████
@@ -702,16 +710,7 @@ Make it accessible to people with visual impairments.
         █████████████████████████████████████
         █████████████████████████████████████
 
-- https://github.com/jonatas/timescaledb
-- https://github.com/jonatas/piscale
-- https://github.com/jonatas/sonification-workshop
-
-Join the Timescale Community: https://timescale.com/community
-
-# Thanks
 
 - [@jonatasdp](https://twitter.com/jonatasdp) on {Twitter,Instagram,Linkedin}
 - Github: [@jonatas](https://github.com/jonatas)
 
-
-#### Jônatas Davi Paganini
