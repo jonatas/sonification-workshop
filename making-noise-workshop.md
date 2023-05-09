@@ -1,29 +1,27 @@
-# Creating noise with Time Series data
-### Sonic PI
-#### &
-### Timescale
+# Sonification Intro
 
-#### **Jônatas Davi Paganini**
-#### @jonatasdp
+**Creating noise with Time Series data**
 
-# @jonatasdp
+### Sonic PI & TimescaleDB
 
-* Backend developer
-* Ruby/Shell/Postgresql/Vim
+##### Jônatas Davi Paganini - **jonatas@timescale.com**
 
-    * Ruby since 2007.
-    * Postgresql since 2004.
+# **Jônatas Davi Paganini**
 
-* Developer Advocate @ Timescale
+**Developer Advocate @ Timescale**
 
-#### twitter: @jonatasdp
-#### github: @jonatas
+* Ruby since 2007.
+* Postgresql since 2004.
+
+```ruby
+{ twitter: '@jonatasdp', github: '@jonatas' }
+```
 
 # Agenda
 
 ```ruby
 plan = {
-  "Why? my story with Sonification": 10.minutes,
+  "Why? My story with Sonification": 10.minutes,
   "The TimescaleDB & The Open Weather dataset": 20.minutes,
   "Introduction to Sonic PI": 1.hour,
   "Piscale - My exploratory project": 1.hour,
@@ -31,9 +29,34 @@ plan = {
 }
 ```
 
-# Why Data?
 
-My previous sonification projects:
+# What is Sonification?
+
+- Sonification: Turning data into sound
+- Allows perception of data through hearing
+
+# Why Sonification?
+
+- Alternate way to understand data
+- Enhances perception of data patterns
+- Useful where visual representation is not practical
+
+# Examples of Sonification
+
+- Geiger counters: Sound indicates radiation levels
+- Heart rate monitors: Sound indicates heart rate
+- Sonic Pi: Music synthesizer used for sonifying data
+
+```ruby
+# Sonic Pi sonification example
+data = [60, 62, 64, 65, 67, 69, 71, 72]
+data.each do |d|
+  play d
+  sleep 0.5
+end
+```
+
+# My past sonification ideas:
 
 * https://github.com/jonatas/dj-trader - Listen to market data
 * https://github.com/jonatas/mandala - Listen to your painted mandala
@@ -49,6 +72,17 @@ Now I work at Timescaledb, so why not make noise from any data?
 * You can detect something when it breaks (Flat tires, mal-functioning)
 * Why not make our or company KPIs or convert our Dashboards to sound system?
 * Blind people can use it!
+
+# Challenges in Sonification
+
+- Making sound meaningful
+- Avoiding sensory overload
+
+# The Future of Sonification
+
+- Potential applications in data analysis, accessibility, education, and arts
+- Active area of research and developmen
+
 
 # Data: The New Gold
 
@@ -76,10 +110,6 @@ Now I work at Timescaledb, so why not make noise from any data?
 > wings to the mind,
 > flight to the imagination,
 > and life to everything." - Plato
-
-# Sonification
-
-> A new way to change our perceptions of data
 
 # Making Data Accessible
 
@@ -124,16 +154,12 @@ Instructor and participant introductions.
 Interact with open weather dataset via psql:
 
 ```bash
-psql openweather
+psql open-weather
 ```
 
 > you can use your favorite tool if you want ;)
 
-#ruby Create
-
-Use `createdb openweather` in case you don't have it yet.
-
-> you can use your favorite tool if you want ;)
+Use `createdb open-weather` in case you don't have it yet.
 
 # Extension
 
@@ -167,19 +193,9 @@ CREATE TABLE public.weather_metrics (
     timezone_shift integer,
     city_name text,
     temp_c double precision,
-    feels_like_c double precision,
-    temp_min_c double precision,
-    temp_max_c double precision,
-    pressure_hpa double precision,
     humidity_percent double precision,
     wind_speed_ms double precision,
-    wind_deg integer,
-    rain_1h_mm double precision,
-    rain_3h_mm double precision,
-    snow_1h_mm double precision,
-    snow_3h_mm double precision,
-    clouds_percent integer,
-    weather_type_id integer
+    -- rain, snow and more ...
 );
 ```
 
@@ -631,10 +647,18 @@ end
 
 
 # Dream about it
-# Imagine a world with real synthesizer hardware integrated with data analysis.
-# Enrich the lives of blind individuals by enabling them to experience data through sound.
-# Democratize data analysis by making it accessible to people with visual impairments.
 
+![Moog Synth](https://upload.wikimedia.org/wikipedia/commons/e/e6/Moog_Modular_55_img2.jpg)
+
+By .The original uploader was Kimi95 at Italian Wikipedia. - http://www.vintagesynth.com/moog/m55_5whole.jpg e, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=7745469
+
+# Imagine a world with real synthesizer hardware integrated with data analysis.
+
+# Enrich the lives of blind individuals by enabling them to experience data through sound.
+
+# Democratize data analysis
+
+Make it accessible to people with visual impairments.
 
 # Extra Resources
 
